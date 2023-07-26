@@ -1,58 +1,58 @@
 
-  html {
-      border-left: 5px solid lightgray;
-  }
+html {
+    border-left: 5px solid lightgray;
+}
 
-  body {
-      min-height: 100%;
-      font-family: sans-serif;
-      max-width: 1000px;
-      margin: 0px auto;
-      padding-top: 1rem;
-  }
-  
-  header,
-  main, 
-  footer, 
-  nav,
-  section {
-      padding: 1rem 2rem;
-  }
+body {
+    min-height: 100%;
+    font-family: sans-serif;
+    max-width: 1000px;
+    margin: 0px auto;
+    padding-top: 1rem;
+}
 
-  header h1{
-      color: tomato;
-      font-size: 65px;
-  }
+header,
+main, 
+footer, 
+nav,
+section {
+    padding: 1rem 2rem;
+}
 
-  figure{
-      width: 100%;
-  }
+header h1{
+    color: tomato;
+    font-size: 65px;
+}
 
-  ul{
-      padding: 0;
-      list-style-type: none;
-      display: flex;
-      justify-content: space-between;
-  }
+figure{
+    width: 100%;
+}
 
-  a{
-      color: lightgray;
-  }
+ul{
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
 
-  footer nav li a{
-      color: tomato;
-  }
+a{
+    color: lightgray;
+}
 
-  section h1{
-      font-size: 40px;
-  }
+footer nav li a{
+    color: tomato;
+}
 
-  article{
-      margin-bottom: 4rem;
-      border-bottom: 1px solid lightgray;
-      padding-bottom: 2rem; 
-  }
+section h1{
+    font-size: 40px;
+}
 
-  footer p{
-      color: lightgray;
-  }
+article{
+    margin-bottom: 4rem;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 2rem; 
+}
+
+footer p{
+    color: lightgray;
+}
